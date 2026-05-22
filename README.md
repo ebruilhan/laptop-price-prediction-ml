@@ -50,9 +50,18 @@ The main goal of the project is to compare different machine learning regression
 
 The Random Forest model achieved the best overall performance.
 
+## Model Comparison Visualization
+
+The figure below compares the prediction performance of Linear Regression, KNN, and Random Forest regression models.
+
+![Model Comparison](model_karşılaştırma.png)
+
 ## Teamwork
 
-This project was developed as a collaborative team project.
+This project was developed as a collaborative academic team project under instructor supervision.
+
+The project team consisted of 3 members.
+
 My contributions mainly included:
 
 * Data preprocessing
