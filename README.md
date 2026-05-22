@@ -54,7 +54,7 @@ The Random Forest model achieved the best overall performance.
 
 The figure below compares the prediction performance of Linear Regression, KNN, and Random Forest regression models.
 
-![Model Comparison](model_karşılaştırma.png)
+![Model Comparison](model_comparison.png)
 
 ## Teamwork
 
