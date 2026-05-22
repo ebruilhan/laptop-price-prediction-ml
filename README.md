@@ -1,4 +1,4 @@
-# Laptop Price Prediction with Machine Learning
+# 💻 Laptop Price Prediction with Machine Learning
 
 This project focuses on predicting laptop prices using multiple machine learning regression algorithms.
 
